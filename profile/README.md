@@ -20,9 +20,6 @@ We envision a world where everyone, regardless of location or economic status, h
 - [Support & FAQs](https://www.remidio.com/support)
 - [Blog](https://www.remidio.com/blog) - Stay updated with our latest innovations and insights.
 
-## Our Impact
-
-At Remidio, our products have been instrumental in screening over **8 million** individuals globally, contributing to the prevention of avoidable blindness. We partner with leading healthcare organizations and professionals to ensure that our diagnostic tools make a tangible impact in communities worldwide.
 
 ## Join Us
 
