@@ -1,6 +1,6 @@
 # Remidio Innovative Solutions Pvt Ltd
 
-![Remidio Logo](**https://cdn.prod.website-files.com/60ca5409e384a51f4efaef3c/60f67d465316667338ba5992_logo_navigation%20.svg**)
+![Remidio Logo](https://cdn.prod.website-files.com/60ca5409e384a51f4efaef3c/60f67d465316667338ba5992_logo_navigation%20.svg)
 
 
 👋 Welcome to the official GitHub repository of **Remidio Innovative Solutions Pvt Ltd**!
